@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
+    <img src="https://substackcdn.com/image/fetch/$s_!DzPr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0df0c564-d244-45f9-84cf-6583f62559b2_560x240.gif">
+</div>
 
-<!--
-**antonio-jesuz/antonio-jesuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Olá, eu sou Antonio - Data Scientist 
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Sou um cientista de dados apaixonado por visão computacional e processamento de imagem. Meu objetivo é levar a análise de dados visuais a um novo patamar, misturando a arte de interpretar imagens com algoritmos de ponta para criar soluções inovadoras e experiências únicas. ✨
+
+## Habilidades Tecnológicas
+
+💻 Aqui estão algumas das tecnologias que eu domino:
+
+-  Linguagens de Programação: 
+
+    [![My Skills](https://skillicons.dev/icons?i=python,haskell,julia)](https://skillicons.dev)
+- Frameworks e Bibliotecas: 
+    
+    [![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv)](https://skillicons.dev)
+- Dados: 
+
+    [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo)](https://skillicons.dev)
+- Ferramentas e Tecnologias: 
+
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu)](https://skillicons.dev)
+
+## Projetos Criativos
+
+🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
+
+1. [Projeto 1](https://github.com/walkingblack/Vehicle-detection): Projeto consiste na detecção de veículos.
+2. [Projeto 2](https://github.com/walkingblack/Analise_Credito): Análise de crédito realizado na India demonstrando o gasto com cada tipo de cartão e a média gasta por pessoas.
+3. [Projeto 3](https://github.com/walkingblack/HealthCare): Análise exploratória de dados voltados para a área da saúde.
+
+## Entre em contato
+LinkedIn: https://www.linkedin.com/in/antonio-jesuz
