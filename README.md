@@ -17,7 +17,7 @@ Sou um desenvolvedor **Full Stack** com sólido background técnico focado em **
 * **Backend:** Go (Gin), Python, Julia
 * **Frontend:** React, HTML5, CSS3, JavaScript
 * **Bancos de Dados & Caching:** PostgreSQL, Redis
-* **DevOps & Sistemas:** Docker, Linux (Ubuntu), Git & GitHub Workflow
+* **DevOps & Sistemas:** Docker, Linux (Ubuntu), Git & GitHub Workflow.
 
 ### 🧠 Inteligência Artificial & Visão Computacional
 * **Deep Learning & ML:** PyTorch, TensorFlow, Scikit-Learn
