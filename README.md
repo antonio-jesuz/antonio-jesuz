@@ -1,51 +1,53 @@
 <div align="center">
-    <img src="https://substackcdn.com/image/fetch/$s_!DzPr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0df0c564-d244-45f9-84cf-6583f62559b2_560x240.gif" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher-front.gif" alt="Golang Gopher" width="100">
 </div>
 
-# 🚀 Olá, eu sou o Antonio — Full Stack Engineer & Data Scientist
+# Antonio Jesuz — Go & Backend Systems Engineer
 
-## 🧑‍💻 Sobre Mim
-
-Sou um desenvolvedor **Full Stack** com sólido background técnico focado em **Ciência de Dados e Visão Computacional**. Minha principal competência está em construir soluções end-to-end: desde a concepção, treinamento e otimização de modelos de inteligência artificial complexos até a sua entrega em microsserviços altamente performáticos, escaláveis e prontos para produção.
+Engenheiro de Software com forte especialização no ecossistema **Go (Golang)**, focado em arquitetura de microsserviços, sistemas concorrentes de alta performance, processamento distribuído e integração eficiente de modelos de IA em ambientes produtivos.
 
 ---
 
-## 🛠️ Stack Tecnológica
-[![My Skills](https://skillicons.dev/icons?i=react,python,julia,go,docker,redis,postgres,ubuntu,vscode)](https://skillicons.dev)
+## Sobre
 
-### 💻 Engenharia de Software & Infraestrutura
-* **Backend:** Go (Gin), Python, Julia
-* **Frontend:** React, HTML5, CSS3, JavaScript
-* **Bancos de Dados & Caching:** PostgreSQL, Redis
-* **DevOps & Sistemas:** Docker, Linux (Ubuntu), Git & GitHub Workflow.
+Atuo na concepção e desenvolvimento de sistemas backend resilientes e escaláveis, com ênfase em concorrência, baixo *overhead* de recursos e confiabilidade de infraestrutura. Minha experiência une a engenharia de sistemas orientada a alta vazão em Go com fundamentos sólidos em ciência de dados e visão computacional.
 
-### 🧠 Inteligência Artificial & Visão Computacional
-* **Deep Learning & ML:** PyTorch, TensorFlow, Scikit-Learn
-* **Processamento de Imagem:** OpenCV
+Busco resolver problemas complexos de arquitetura, garantindo código limpo, testável, observável e preparado para suportar cargas exigentes em produção.
 
 ---
 
-## 🎯 Projetos de Impacto
+## Stack Tecnológica & Competências
 
-### 1. 🚗 [Vehicle Detection and Counting (OpenCV)](https://github.com/walkingblack/Vehicle-detection)
-* **Escopo Técnico:** Visão Computacional | Real-Time Analytics | IA
-* **Descrição:** Sistema inteligente projetado para o monitoramento ativo e contagem automatizada de fluxo de veículos em rodovias. Desenvolvido utilizando algoritmos avançados de subtração de fundo e análise de contornos para garantir processamento rápido.
-* **Tecnologias:** Python, OpenCV, NumPy.
-
-### 2. 💳 [Análise Descritiva de Crédito (Mercado Indiano)](https://github.com/walkingblack/Analise_Credito)
-* **Escopo Técnico:** Data Science | Big Data | Análise Exploratória (EDA)
-* **Descrição:** Engenharia e análise exploratória aplicada sobre uma base massiva de transações financeiras na Índia. O projeto extrai tendências sazonais, segmentação refinada de clientes e padrões de consumo por demografia e tipo de cartão para apoiar tomadas de decisão em gerenciamento de risco.
-* **Tecnologias:** Python, Pandas, NumPy, Seaborn, Matplotlib.
-
-### 🏥 3. [HealthCare Data Analytics](https://github.com/walkingblack/HealthCare)
-* **Escopo Técnico:** Data Analytics | Inteligência de Negócio (BI)
-* **Descrição:** Pipelines de análise voltados para a área médica e de saúde pública, estruturados para identificar correlações críticas em indicadores clínicos e otimização de eficiência operacional hospitalar.
-* **Tecnologias:** Python, Pandas, Manipulação de Dados Estruturados.
+* **Core Go:** Concorrência (Goroutines & Channels), Gerenciamento de Contexto, APIs RESTful / gRPC, Clean Architecture / DDD
+* **Backend & Dados:** PostgreSQL (Modelagem & Otimização de Queries), Redis (Caching & Mensageria), Microsserviços Distribuídos
+* **Infraestrutura & Cloud-Native:** Docker, Linux (Ubuntu), Git, Workflows de CI/CD, Automação de Deploy
+* **Integração de IA & Visão Computacional:** Servindo modelos de inferência em tempo real (PyTorch, TensorFlow, OpenCV) acoplados a backends de alta performance
+* **Linguagens Complementares:** Python, Julia, React (Frontend básico)
 
 ---
 
-## 🤝 Vamos nos conectar?
+## Projetos em Destaque
 
-Estou sempre aberto a discussões técnicas sobre arquiteturas de software eficientes, IA em ambientes produtivos e otimização de performance.
+### [Vehicle Detection and Counting](https://github.com/walkingblack/Vehicle-detection)
+**Área:** Visão Computacional & Processamento em Tempo Real  
+Sistema para monitoramento ativo e contagem automatizada de fluxo veicular. Desenvolvido para lidar com processamento contínuo de vídeo, garantindo baixa latência e alta eficiência no tratamento de frames.  
+**Tecnologias:** `Python` · `OpenCV` · `NumPy`
 
-* **LinkedIn:** [/in/antonio-jesuz](https://www.linkedin.com/in/antonio-jesuz)
+### [Análise Descritiva de Crédito (Mercado Indiano)](https://github.com/walkingblack/Analise_Credito)
+**Área:** Engenharia de Dados & Análise Exploratória (EDA)  
+Pipeline analítico estruturado sobre um grande volume de transações financeiras, focado na extração de padrões de consumo, sazonalidade e segmentação de risco para suporte à decisão.  
+**Tecnologias:** `Python` · `Pandas` · `NumPy` · `Seaborn` · `Matplotlib`
+
+### [HealthCare Data Analytics](https://github.com/walkingblack/HealthCare)
+**Área:** Pipelines Analíticos & Business Intelligence  
+Estruturação e modelagem de fluxos de dados voltados ao setor clínico e de saúde pública, priorizando a correlação de indicadores médicos e a otimização de eficiência operacional.  
+**Tecnologias:** `Python` · `Pandas` · `Data Modeling`
+
+---
+
+## Contato
+
+Aberto a discussões técnicas sobre arquitetura orientada a microsserviços, concorrência em Go, design de sistemas distribuídos e engenharia de backend.
+
+* **LinkedIn:** [linkedin.com/in/antonio-jesuz](https://www.linkedin.com/in/antonio-jesuz)
+* **GitHub:** [github.com/antonio-jesuz](https://github.com/antonio-jesuz)
