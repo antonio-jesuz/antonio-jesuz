@@ -2,52 +2,64 @@
   <img src="https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher-front.gif" alt="Golang Gopher" width="100">
 </div>
 
-# Antonio Jesuz — Go & Backend Systems Engineer
+# Antonio Jesuz — Go Backend Engineer
 
-Engenheiro de Software com forte especialização no ecossistema **Go (Golang)**, focado em arquitetura de microsserviços, sistemas concorrentes de alta performance, processamento distribuído e integração eficiente de modelos de IA em ambientes produtivos.
+> **Microsserviços · Concorrência · Sistemas de Alta Vazão · IA em Produção**
 
----
-
-## Sobre
-
-Atuo na concepção e desenvolvimento de sistemas backend resilientes e escaláveis, com ênfase em concorrência, baixo *overhead* de recursos e confiabilidade de infraestrutura. Minha experiência une a engenharia de sistemas orientada a alta vazão em Go com fundamentos sólidos em ciência de dados e visão computacional.
-
-Busco resolver problemas complexos de arquitetura, garantindo código limpo, testável, observável e preparado para suportar cargas exigentes em produção.
+Engenheiro de Software especializado em **Go (Golang)** com foco em arquitetura de microsserviços, sistemas concorrentes de alta performance e integração de modelos de IA em ambientes produtivos.
 
 ---
 
-## Stack Tecnológica & Competências
+## O que eu faço
 
-* **Core Go:** Concorrência (Goroutines & Channels), Gerenciamento de Contexto, APIs RESTful / gRPC, Clean Architecture / DDD
-* **Backend & Dados:** PostgreSQL (Modelagem & Otimização de Queries), Redis (Caching & Mensageria), Microsserviços Distribuídos
-* **Infraestrutura & Cloud-Native:** Docker, Linux (Ubuntu), Git, Workflows de CI/CD, Automação de Deploy
-* **Integração de IA & Visão Computacional:** Servindo modelos de inferência em tempo real (PyTorch, TensorFlow, OpenCV) acoplados a backends de alta performance
-* **Linguagens Complementares:** Python, Julia, React (Frontend básico)
+- Projeto e desenvolvo **backends resilientes e escaláveis** em Go, com ênfase em baixo *overhead*, concorrência e confiabilidade.
+- Implemento **sistemas distribuídos** (gRPC, mensageria, caching) preparados para cargas exigentes.
+- Servo **modelos de inferência em tempo real** (PyTorch, OpenCV) acoplados a backends de alta performance.
+- Garanto código **limpo, testável e observável** — do design à produção.
+
+---
+
+## Stack
+
+| Categoria | Tecnologias |
+|---|---|
+| **Core Go** | Goroutines & Channels, Context, gRPC, REST, Clean Architecture / DDD |
+| **Dados** | PostgreSQL, Redis, Modelagem & Otimização de Queries |
+| **Infra** | Docker, Linux (Ubuntu), CI/CD, Automação de Deploy |
+| **IA & Visão** | PyTorch, TensorFlow, OpenCV, Inferência em tempo real |
+| **Complementar** | Python, Julia, React |
 
 ---
 
 ## Projetos em Destaque
 
-### [Vehicle Detection and Counting](https://github.com/walkingblack/Vehicle-detection)
-**Área:** Visão Computacional & Processamento em Tempo Real  
-Sistema para monitoramento ativo e contagem automatizada de fluxo veicular. Desenvolvido para lidar com processamento contínuo de vídeo, garantindo baixa latência e alta eficiência no tratamento de frames.  
-**Tecnologias:** `Python` · `OpenCV` · `NumPy`
+### 🚗 [GoMonitora](https://github.com/antonio-jesuz/GoMonitora)
+**Go · Concorrência · Monitoramento em Tempo Real**
+Sistema de monitoramento construído em Go com foco em processamento concorrente e baixa latência.
 
-### [Análise Descritiva de Crédito (Mercado Indiano)](https://github.com/walkingblack/Analise_Credito)
-**Área:** Engenharia de Dados & Análise Exploratória (EDA)  
-Pipeline analítico estruturado sobre um grande volume de transações financeiras, focado na extração de padrões de consumo, sazonalidade e segmentação de risco para suporte à decisão.  
-**Tecnologias:** `Python` · `Pandas` · `NumPy` · `Seaborn` · `Matplotlib`
+### 🚙 [Vehicle Detection and Counting](https://github.com/walkingblack/Vehicle-detection)
+**Python · OpenCV · Processamento em Tempo Real**
+Monitoramento ativo e contagem automatizada de fluxo veicular com baixa latência no tratamento de frames.
 
-### [HealthCare Data Analytics](https://github.com/walkingblack/HealthCare)
-**Área:** Pipelines Analíticos & Business Intelligence  
-Estruturação e modelagem de fluxos de dados voltados ao setor clínico e de saúde pública, priorizando a correlação de indicadores médicos e a otimização de eficiência operacional.  
-**Tecnologias:** `Python` · `Pandas` · `Data Modeling`
+### 📊 [Análise Descritiva de Crédito](https://github.com/walkingblack/Analise_Credito)
+**Python · Pandas · EDA**
+Pipeline analítico sobre transações financeiras — padrões de consumo, sazonalidade e segmentação de risco.
+
+### 🏥 [HealthCare Data Analytics](https://github.com/walkingblack/HealthCare)
+**Python · Pandas · Data Modeling**
+Fluxos de dados para o setor clínico — correlação de indicadores médicos e eficiência operacional.
+
+---
+
+## Aberto a
+
+Oportunidades como **Backend Engineer / Go Developer / Systems Engineer** — presencial ou remoto.
+
+Aberto a discussões técnicas sobre arquitetura de microsserviços, concorrência, design de sistemas distribuídos e engenharia de backend.
 
 ---
 
 ## Contato
 
-Aberto a discussões técnicas sobre arquitetura orientada a microsserviços, concorrência em Go, design de sistemas distribuídos e engenharia de backend.
-
-* **LinkedIn:** [linkedin.com/in/antonio-jesuz](https://www.linkedin.com/in/antonio-jesuz)
-* **GitHub:** [github.com/antonio-jesuz](https://github.com/antonio-jesuz)
+* **LinkedIn:** [antonio-jesuz](https://www.linkedin.com/in/antonio-jesuz)
+* **GitHub:** [antonio-jesuz](https://github.com/antonio-jesuz)   
